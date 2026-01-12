@@ -1,0 +1,31 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Mm]emoryCaptures/
+Assets/AssetStoreTools*
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity generated files
+ExportedObj/
+.consulo/
+*.apk
+*.unitypackage
+
+# Crash reports
+sysinfo.txt
+
+# Cache
+UserSettings/
